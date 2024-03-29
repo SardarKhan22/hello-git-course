@@ -1,6 +1,7 @@
-#  filter out files that end with
-.in
-.out ja
-.pyc
+# 3 Files that should have be ignored:
+aiycr.in
+azkrc.pyc
+xfozn.out
+
 
 
