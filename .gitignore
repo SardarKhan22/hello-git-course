@@ -1,0 +1,6 @@
+#  filter out files that end with
+.in
+.out ja
+.pyc
+
+
