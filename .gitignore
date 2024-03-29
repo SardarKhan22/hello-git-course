@@ -1,7 +1,8 @@
 # 3 Files that should have be ignored:
-aiycr.in
-azkrc.pyc
-xfozn.out
+*.in
+*.out
+*.pyc
+
 
 
 
